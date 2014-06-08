@@ -1,4 +1,6 @@
 - [ ] [A Tour of Go](http://tour.golang.org/#1)
 - [ ] [Specification](http://tip.golang.org/ref/spec)
-- [ ] [gopherref + effective](https://github.com/gokyle/gopherref/blob/master/gopherref.pdf)
+- [ ] [How to Write Go Code](http://golang.org/doc/code.html)
+- [ ] [Effective Go](http://golang.org/doc/effective_go.html)
+- [ ] [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/eBook/preface.md)
 
