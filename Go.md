@@ -1,4 +1,4 @@
-- [ ] [A Tour of Go](http://tour.golang.org/#1)
+- [x] [A Tour of Go](http://tour.golang.org/#1)
 - [ ] [Specification](http://tip.golang.org/ref/spec)
 - [ ] [How to Write Go Code](http://golang.org/doc/code.html)
 - [ ] [Effective Go](http://golang.org/doc/effective_go.html)
