@@ -2,6 +2,7 @@
 - [x] [Specification](http://tip.golang.org/ref/spec)
 - [x] [How to Write Go Code](http://golang.org/doc/code.html)
 - [x] [Effective Go](http://golang.org/doc/effective_go.html)
+- [ ] [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [ ] [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/eBook/preface.md)
 - [ ] [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers)
 
