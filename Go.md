@@ -3,6 +3,7 @@
 - [x] [How to Write Go Code](http://golang.org/doc/code.html)
 - [x] [Effective Go](http://golang.org/doc/effective_go.html)
 - [x] [Go Bootcamp](http://www.golangbootcamp.com/book)
+- [ ] [The Way to Go](http://www.amazon.com/dp/1469769166)
 - [ ] [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/eBook/preface.md)
 - [ ] [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers)
 
