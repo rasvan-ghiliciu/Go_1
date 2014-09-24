@@ -6,6 +6,6 @@
 - [x] [The Way to Go](http://www.amazon.com/dp/1469769166)
 - [x] [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/eBook/preface.md)
 - [x] [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
-- [ ] [Programming Skills: GO, Concurrent and Systems Programming](http://www.cs.rit.edu/~ats/go-2011-2/index.xml)
+- [x] [Programming Skills: GO, Concurrent and Systems Programming](http://www.cs.rit.edu/~ats/go-2011-2/index.xml)
 - [ ] [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers)
 
